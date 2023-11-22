@@ -1,0 +1,16 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1 { 
+    background-color: midnightblue;
+    color: white;
+    text-align: center;
+}
+a {
+    color: black;
+    
+
+}
+li{
+    color: crimson;
+}

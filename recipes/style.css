@@ -1,0 +1,21 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    background-color: midnightblue;
+    color: white;
+    text-align: center;
+}
+img {
+    width: 300px;
+    
+}
+h2{
+    background-color: bisque;
+    text-align: center;
+}
+h3{
+    background-color: wheat;
+    text-align: center;
+}
