@@ -5,12 +5,16 @@ h1 {
     background-color: midnightblue;
     color: white;
     text-align: center;
+    padding: 10px;
 }
 a {
     color: black;
+    text-decoration: none;
     
 
 }
 li{
     color: crimson;
+    margin: 3px;
+    
 }

@@ -6,16 +6,29 @@ h1 {
     background-color: midnightblue;
     color: white;
     text-align: center;
+    padding: 10px;
 }
 img {
     width: 300px;
     
 }
+p{
+    line-height: 25px;
+}
 h2{
     background-color: bisque;
     text-align: center;
+    padding: 5px;
 }
 h3{
     background-color: wheat;
     text-align: center;
+    padding: 5px;
+}
+li {
+    margin: 2px;
+}
+div{
+    width: 300px;
+    margin: 0 auto;
 }
